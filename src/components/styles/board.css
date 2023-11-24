@@ -1,4 +1,10 @@
 /** @format */
+.boardContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
+}
 
 .board {
   display: flex;
@@ -6,5 +12,3 @@
   height: 20rem;
   flex-wrap: wrap;
 }
-
-
