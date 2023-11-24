@@ -1,0 +1,10 @@
+/** @format */
+
+.square {
+  background: none;
+  height: 33.3%;
+  width: 33.3%;
+  font-size: xx-large;
+  font-weight: bold;
+  cursor: pointer;
+}

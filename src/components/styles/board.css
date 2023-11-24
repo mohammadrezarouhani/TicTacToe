@@ -1,0 +1,10 @@
+/** @format */
+
+.board {
+  display: flex;
+  width: 20rem;
+  height: 20rem;
+  flex-wrap: wrap;
+}
+
+
